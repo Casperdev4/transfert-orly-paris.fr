@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://transfert-orly-paris.fr/sitemap.xml
